@@ -27,7 +27,7 @@ Este comando ejecutará el script principal que realiza las siguientes operacion
 
 
 ## Estructura del Proyecto
-main.py: Script principal que orquesta las operaciones.
-unzipper.py: Módulo para descomprimir archivos ZIP.
-reader_xlsx.py: Módulo para leer archivos XLSX y convertirlos a CSV.
-formatter_csv.py: Módulo para formatear archivos CSV.
+    main.py: Script principal que orquesta las operaciones.
+    unzipper.py: Módulo para descomprimir archivos ZIP.
+    reader_xlsx.py: Módulo para leer archivos XLSX y convertirlos a CSV.
+    formatter_csv.py: Módulo para formatear archivos CSV.
