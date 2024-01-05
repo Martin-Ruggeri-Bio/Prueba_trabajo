@@ -4,7 +4,7 @@ Este script de Python se encarga de procesar datos sobre víctimas de delitos. R
 # Instalación
 ## Clonar el repositorio:
 
-`$ git clone https://github.com/tu_usuario/tu_repo.git`
+`$ git clone https://github.com/Martin-Ruggeri-Bio/Prueba_trabajo.git`
 `$ cd Prueba_trabajo`
 
 ## Configurar un entorno virtual:
