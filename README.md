@@ -18,7 +18,7 @@ Este script de Python se encarga de procesar datos sobre víctimas de delitos. R
 Ejecutar el script principal:
 `$ python main.py`
 Este comando ejecutará el script principal que realiza las siguientes operaciones:
-
+    Descarga de la web el zip deseado
     Descomprime el archivo ZIP en la carpeta unzipped_data.
     Lee el archivo XLSX y guarda un archivo CSV en la carpeta csv_data.
     Formatea el archivo CSV resultante.
@@ -28,6 +28,7 @@ Este comando ejecutará el script principal que realiza las siguientes operacion
 
 ## Estructura del Proyecto
     main.py: Script principal que orquesta las operaciones.
+    web_scraping.py: Módulo para descargar el zip de la web deseada
     unzipper.py: Módulo para descomprimir archivos ZIP.
     reader_xlsx.py: Módulo para leer archivos XLSX y convertirlos a CSV.
     formatter_csv.py: Módulo para formatear archivos CSV.
